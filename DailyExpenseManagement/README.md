@@ -86,3 +86,22 @@ java -jar target/DailyExpenseManagement-1.0.0.jar
 - **"mvn: command not found"** → Install Maven, or just open the project in an IDE (Option 1), which bundles Maven.
 - **Port already in use** → Change `server.port=8080` to another port (e.g. `8082`) in `application.properties`.
 - **Blank/broken styling** → Make sure you have an internet connection, since Bootstrap CSS loads from a CDN.
+## 📸 Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Register Page
+![Register](screenshots/register.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Expense Page
+![Expense](screenshots/expense.png)
+
+### Income Page
+![Income](screenshots/income.png)
+
+### Report Page
+![Report](screenshots/report.png)
