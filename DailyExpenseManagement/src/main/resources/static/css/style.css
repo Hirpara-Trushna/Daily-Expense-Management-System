@@ -1,0 +1,35 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    border: none;
+}
+
+.summary-card h3 {
+    margin-bottom: 0;
+}
+
+.summary-income {
+    color: #198754;
+}
+
+.summary-expense {
+    color: #dc3545;
+}
+
+.summary-balance {
+    color: #0d6efd;
+}
+
+.auth-box {
+    max-width: 420px;
+    margin: 60px auto;
+}
