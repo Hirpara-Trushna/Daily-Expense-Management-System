@@ -3,10 +3,13 @@
 A simple Spring Boot + Thymeleaf web app to track daily expenses and income.
 
 ## Tech Stack
-- Java 17
-- Spring Boot 3.2.5 (Web, Data JPA, Thymeleaf, Validation)
-- H2 Database (file-based — no separate database server needed)
-- Bootstrap 5 (via CDN, for styling)
+
+- Java 25
+- Spring Boot 3.2.5
+- Spring Data JPA
+- Thymeleaf
+- H2 Database
+- Bootstrap 5
 
 ## Project Structure
 ```
@@ -25,13 +28,21 @@ DailyExpenseManagement/
 └── README.md
 ```
 
-## Requirements
-Install these before running:
-1. **Java 17 (JDK)** — https://adoptium.net/
-2. **Maven** — https://maven.apache.org/download.cgi (skip this if using an IDE with built-in Maven, like IntelliJ or Eclipse/STS)
+## 📋 Requirements
 
-Check installation:
-```
+Install the following before running the project:
+
+1. **Java JDK 25** (or later)  
+   Download: https://adoptium.net/
+
+2. **Apache Maven 3.9+**  
+   Download: https://maven.apache.org/download.cgi
+
+### Verify the installation
+
+Run the following commands:
+
+```bash
 java -version
 mvn -version
 ```
