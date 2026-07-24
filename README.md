@@ -88,20 +88,20 @@ java -jar target/DailyExpenseManagement-1.0.0.jar
 - **Blank/broken styling** → Make sure you have an internet connection, since Bootstrap CSS loads from a CDN.
 ## 📸 Screenshots
 
-### Login Page
-![Login](screenshots/login.png)
+### 🔐 Login
+![Login](DailyExpenseManagement/screenshots/login.png)
 
-### Register Page
-![Register](screenshots/register.png)
+### 📝 Register
+![Register](DailyExpenseManagement/screenshots/register.png)
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+### 🏠 Dashboard
+![Dashboard](DailyExpenseManagement/screenshots/dashboard.png)
 
-### Expense Page
-![Expense](screenshots/expense.png)
+### 💸 Expense
+![Expense](DailyExpenseManagement/screenshots/expense.png)
 
-### Income Page
-![Income](screenshots/income.png)
+### 💰 Income
+![Income](DailyExpenseManagement/screenshots/income.png)
 
-### Report Page
-![Report](screenshots/report.png)
+### 📊 Report
+![Report](DailyExpenseManagement/screenshots/report.png)
